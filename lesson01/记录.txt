@@ -1,0 +1,80 @@
+
+
+__________________________
+语言;
+html（Hypertext Markup Language）—— 结构 超文本标记语言css（Cascading Style Sheets）—— 样式	层叠样式表
+
+js（javascript）—— 行为
+
+
+一栋大楼；
+
+
+——————————————————————
+
+html+css结课标准：独立兼容的完成一个整站作品；
+
+——————————————————————
+html 超文本标记语言；
+< 标记
+<html> 标签
+<html> </html> 标签对
+
+<html>
+<head>
+	<title>第一个页面</title>
+</head>
+<body>
+
+</body>
+</html>
+
+<!DOCTYPE HTML>
+<html>
+<head>
+<meta charset="utf-8"/>
+<title>无标题文档</title>
+</head>
+
+<body>
+</body>
+</html>
+
+<!DOCTYPE HTML>
+!声明 注意
+doc document 文档  
+type  类型 
+
+<meta charset="utf-8"/>
+代码编码格式
+
+utf-8  国际标准
+天    001
+？    110
+
+gb2312  中文简体标准
+天   110
+？   001
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
